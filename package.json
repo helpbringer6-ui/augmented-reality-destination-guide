@@ -1,0 +1,27 @@
+{
+  "name": "augmented-reality-destination-guide",
+  "version": "1.0.0",
+  "description": "A mobile application to enhance destination exploration using augmented reality.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.0",
+    "react-navigation": "^4.4.4",
+    "react-native-maps": "^0.29.4",
+    "@react-native-arkit/arkit": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "babel-jest": "^26.6.0",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1"
+  },
+  "homepage": "https://github.com/yourusername/augmented-reality-destination-guide"
+}
